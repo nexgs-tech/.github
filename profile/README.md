@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+Serviços profissionais de alta qualidade em arquitetura e desenvolvimento de software. 
+
+CLIENTES:
+
+Valtech (valtech.com/pt-br)
+
+Prestação de serviço como Arquiteto Sharepoint. Responsável pelo planejamento e desenvolvimento de projetos Sharepoint, com atuação direta no atendimento de clientes.
+
+CI Intercâmbio e Viagem (ci.com.br)
+
+Serviços prestados como Arquiteto de Software, apoiando o time interno com definições de padrões e boas práticas de desenvolvimento.
+
 <!--
 
 **Here are some ideas to get you started:**
