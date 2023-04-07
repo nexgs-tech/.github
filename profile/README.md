@@ -12,6 +12,10 @@ CI Intercâmbio e Viagem (ci.com.br)
 
 Serviços prestados como Arquiteto de Software, apoiando o time interno com definições de padrões e boas práticas de desenvolvimento.
 
+Hubcred Fintech (hubcred.com.br)
+
+Serviços prestados de arquitetura, desenvolvimento e devOps da plataforma de hub crédito que já bateu mais 700.000 mil transações de vendas em parceiros.
+
 <!--
 
 **Here are some ideas to get you started:**
